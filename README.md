@@ -1,3 +1,5 @@
+* Ohjeiden lukeminen kannattaa aloittaa tästä tiedostosta.
+* Sen jälkeen tiedosto 'Lue_ennen_aloitusta.txt'. 
 Tämä projekti on tarkoitettu helpottamaan Ohjelmisto 2 projektin aloittamista. <br>
 Projekti EI ole hieno, viimeistelty tai mitenkään täydellinen.
 Projekti on tehty kurssilla käytetyllä PyCharm-kehittimellä, mutta voidaan ladata myös muihin kehittimiin. <br>
